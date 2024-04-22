@@ -1,0 +1,25 @@
+Power shell(no need)
+PS C:\Users\meeth\Desktop\Meeth\Project\sem6\CSTRY\src\dashboard\Password> uvicorn main:app --reload
+ cd ./server/password
+ uvicorn main:app --reload
+
+main
+PS C:\Users\meeth\Desktop\Meeth\Project\sem6\cstry> npm run dev
+ cd cstry
+ npm run dev
+
+Server
+PS C:\Users\meeth\Desktop\Meeth\Project\sem6\server> npm start      
+ cd server
+ npm start
+
+
+ spam classifier 
+ PS C:\Users\meeth\Desktop\Meeth\Project\sem6\cstry\src\dashboard\spamclassifier> uvicorn main:app --reload
+  cd .\CSTRY\src\dashboard\spamclassifier\
+  uvicorn main:app --reload
+
+
+
+
+PS C:\Users\meeth\Desktop\Meeth\Project\sem6\CSTRY\src\dashboard\URLscanner> uvicorn phish:app --port 8001 --reload

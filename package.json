@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "clamscan": "^1.0.1",
+    "express-session": "^1.18.0",
+    "mdbreact": "^5.2.0",
+    "stream-browserify": "^3.0.0"
+  }
+}
